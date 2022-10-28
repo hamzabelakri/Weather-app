@@ -12,6 +12,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+ 
+  overflow: hidden;
 }
 
 p {
@@ -93,6 +95,12 @@ h1 {
   border-radius: 12px;
   background-color: rgba(255,255,255, 0.2);
 
+}
+
+.center {
+  
+  margin:  auto ;
+  font-weight: 200;
 }
 
 .bold {
